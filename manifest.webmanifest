@@ -1,0 +1,22 @@
+{
+    "short_name": "Reviews",
+    "name": "Restaurant Reviews",
+    "icons": [
+      {
+        "src": "/img/pwa-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/pwa-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "orientation": "landscape",
+    "scope": "/",
+    "theme_color": "#FDCB6E"
+  }

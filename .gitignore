@@ -65,7 +65,7 @@ config/local.js
 # (credit Addy Osmani, @addyosmani)
 # 
 ################################################
-
+dist
 node_modules
 bower_components
 
